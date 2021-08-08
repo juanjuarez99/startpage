@@ -23,6 +23,7 @@ html {
 
 body {
 	height: calc(100vh - 2em);
+	background-color: black;
 	background-image: url("background.png");
 	background-size: cover;
 	background-blend-mode: saturation;
